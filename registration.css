@@ -145,7 +145,7 @@ nav ul li a:hover {
 footer {
   background-color: black;  /* Dark color to match your site's palette */
   color: white;
-  padding: 20px 0;  /* Reduced padding for a smaller height */
+  padding: 26px 0;  /* Reduced padding for a smaller height */
   text-align: center;
   margin-top: 150px;
 }

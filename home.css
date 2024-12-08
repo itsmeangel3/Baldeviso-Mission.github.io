@@ -710,7 +710,7 @@ button.increase-btn:hover {
 footer {
   background-color: black;  /* Dark color to match your site's palette */
   color: white;
-  padding: 20px 0;  /* Reduced padding for a smaller height */
+  padding: 26px;  /* Reduced padding for a smaller height */
   text-align: center;
 }
 
